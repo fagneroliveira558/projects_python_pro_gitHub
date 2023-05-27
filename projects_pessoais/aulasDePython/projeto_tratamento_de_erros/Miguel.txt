@@ -1,0 +1,11 @@
+seu nome: Miguel Lorenzo; seu sexo: M; e sua idade: 2 anos
+seu nome: Kamila Oliveira; seu sexo: F; e sua idade: 7 anos
+seu nome: Zoe Miwa; seu sexo: F; e sua idade: 4 anos
+seu nome: Fagner Oliveira; seu sexo: M; e sua idade: 30 anos
+seu nome: Ruteneia Oliveira Amorim; seu sexo: F; e sua idade: 30 anos
+seu nome: Tiago Oliveira; seu sexo: M; e sua idade: 31 anos
+seu nome: Angelica Amorim; seu sexo: F; e sua idade: 28 anos
+seu nome: Angelina Amorim; seu sexo: F; e sua idade: 3 anos
+seu nome: fagner; seu sexo: M; e sua idade: 30 anos
+seu nome: fagner; seu sexo: M; e sua idade: 30 anos
+seu nome: 15; seu sexo: F; e sua idade: 30 anos
